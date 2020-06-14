@@ -1,0 +1,2 @@
+The mailtrap smtp was used for password changes.
+Kindly replace my details with your mailtrap account details in the .env file.
